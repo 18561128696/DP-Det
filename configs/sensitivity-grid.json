@@ -1,0 +1,41 @@
+{
+  "note": "Nine table rows; repeated base setting is shared. No historical scores or checkpoints are implied.",
+  "runs": [
+    {
+      "id": "alpha_1",
+      "profile": "a1p9_d3_b50"
+    },
+    {
+      "id": "alpha_2",
+      "profile": "a2p1_d3_b50"
+    },
+    {
+      "id": "alpha_3",
+      "profile": "a2p3_d3_b50"
+    },
+    {
+      "id": "delta_1",
+      "profile": "a2p1_d2p5_b50"
+    },
+    {
+      "id": "delta_2",
+      "profile": "a2p1_d3_b50"
+    },
+    {
+      "id": "delta_3",
+      "profile": "a2p1_d3p5_b50"
+    },
+    {
+      "id": "scale_bias_1",
+      "profile": "a2p1_d3_b30"
+    },
+    {
+      "id": "scale_bias_2",
+      "profile": "a2p1_d3_b40"
+    },
+    {
+      "id": "scale_bias_3",
+      "profile": "a2p1_d3_b50"
+    }
+  ]
+}

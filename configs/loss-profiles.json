@@ -1,0 +1,74 @@
+{
+  "a1p9_d3_b50": {
+    "environment": {
+      "BSWIOU_ALPHA": 1.9,
+      "BSWIOU_DELTA": 3,
+      "BSWIOU_SCALE_BIAS": 50,
+      "BSWIOU_SCALE_NUM": 100
+    },
+    "source": "Manuscript sensitivity table; settings, not certified score provenance"
+  },
+  "a2p1_d3_b50": {
+    "environment": {
+      "BSWIOU_ALPHA": 2.1,
+      "BSWIOU_DELTA": 3,
+      "BSWIOU_SCALE_BIAS": 50,
+      "BSWIOU_SCALE_NUM": 100
+    },
+    "source": "Manuscript sensitivity table; settings, not certified score provenance"
+  },
+  "a2p3_d3_b50": {
+    "environment": {
+      "BSWIOU_ALPHA": 2.3,
+      "BSWIOU_DELTA": 3,
+      "BSWIOU_SCALE_BIAS": 50,
+      "BSWIOU_SCALE_NUM": 100
+    },
+    "source": "Manuscript sensitivity table; settings, not certified score provenance"
+  },
+  "a2p1_d2p5_b50": {
+    "environment": {
+      "BSWIOU_ALPHA": 2.1,
+      "BSWIOU_DELTA": 2.5,
+      "BSWIOU_SCALE_BIAS": 50,
+      "BSWIOU_SCALE_NUM": 100
+    },
+    "source": "Manuscript sensitivity table; settings, not certified score provenance"
+  },
+  "a2p1_d3p5_b50": {
+    "environment": {
+      "BSWIOU_ALPHA": 2.1,
+      "BSWIOU_DELTA": 3.5,
+      "BSWIOU_SCALE_BIAS": 50,
+      "BSWIOU_SCALE_NUM": 100
+    },
+    "source": "Manuscript sensitivity table; settings, not certified score provenance"
+  },
+  "a2p1_d3_b30": {
+    "environment": {
+      "BSWIOU_ALPHA": 2.1,
+      "BSWIOU_DELTA": 3,
+      "BSWIOU_SCALE_BIAS": 30,
+      "BSWIOU_SCALE_NUM": 100
+    },
+    "source": "Manuscript sensitivity table; settings, not certified score provenance"
+  },
+  "a2p1_d3_b40": {
+    "environment": {
+      "BSWIOU_ALPHA": 2.1,
+      "BSWIOU_DELTA": 3,
+      "BSWIOU_SCALE_BIAS": 40,
+      "BSWIOU_SCALE_NUM": 100
+    },
+    "source": "Manuscript sensitivity table; settings, not certified score provenance"
+  },
+  "a2p3_d2p5_b30": {
+    "environment": {
+      "BSWIOU_ALPHA": 2.3,
+      "BSWIOU_DELTA": 2.5,
+      "BSWIOU_SCALE_BIAS": 30,
+      "BSWIOU_SCALE_NUM": 100
+    },
+    "source": "H15 label and supplied NWPU H15 training script; not a verified historical VisDrone checkpoint configuration"
+  }
+}

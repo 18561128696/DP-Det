@@ -1,0 +1,2 @@
+ultralytics==8.4.7
+pycocotools==2.0.11

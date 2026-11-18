@@ -1,0 +1,4 @@
+path: datasets/NWPU_VHR10_YOLO
+train: images/train
+val: images/val
+names: [airplane, ship, storage_tank, baseball_diamond, tennis_court, basketball_court, ground_track_field, harbor, bridge, vehicle]

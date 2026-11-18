@@ -1,0 +1,4 @@
+path: datasets/VisDrone_YOLO
+train: VisDrone2019-DET-train/images
+val: VisDrone2019-DET-val/images
+names: [pedestrian, people, bicycle, car, van, truck, tricycle, awning-tricycle, bus, motor]

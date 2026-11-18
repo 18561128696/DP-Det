@@ -1,0 +1,70 @@
+{
+  "upstream_version": "8.4.7",
+  "files": [
+    {
+      "path": "ultralytics/utils/tal.py",
+      "upstream_sha256_text": "bdf71f4b2efccddb476c6ce5be8e540f1fac0b01cb45d181a833b7097ed9891d",
+      "local_sha256_text": "f4149182c623d0b96aeebe6f3b39170ca5237e84d9b31887f76534f5ce83b685"
+    },
+    {
+      "path": "ultralytics/utils/metrics.py",
+      "upstream_sha256_text": "a6e3069f52df548943bf1e4aed44b846d2bc1d85ba71197d3b39df5749d43ef9",
+      "local_sha256_text": "77f8af475cff7179407f0ca5d9f93fbcc31139161de609df0881a1da175aa389"
+    },
+    {
+      "path": "ultralytics/utils/loss.py",
+      "upstream_sha256_text": "521ef4e5dc691cf14b29e723b26fe7099f094d8bf438728d13dfd9672303894a",
+      "local_sha256_text": "890b49b84d9291cffa118fcfda03fb7d1ec8128e6f70ab25601eb3dc74f3c498"
+    },
+    {
+      "path": "ultralytics/nn/tasks.py",
+      "upstream_sha256_text": "3e695849c23ba93442998451f74330d509ea791cef634a2300cae04ad06bd758",
+      "local_sha256_text": "cecad4c297aa41fefec4815ab1ca06a2a4fe7eaee1750fa051a75fd50f9e8f26"
+    },
+    {
+      "path": "ultralytics/cfg/default.yaml",
+      "upstream_sha256_text": "1c55312181cd291d5106631f126bfbdb3369da4a8cceb4a6d7c21048a2938274",
+      "local_sha256_text": "d9e1fa6ec08ad7457af28d98dc1da408e9e15ef43ae00ff61e6ac360fef574ac"
+    },
+    {
+      "path": "ultralytics/cfg/__init__.py",
+      "upstream_sha256_text": "37b78a5e077ded41d6c583a0c7fb3728a2f374abd1ce9e4b08550bd8ff11a5ea",
+      "local_sha256_text": "6e94aa21564b526c2223ede7e3dd79a014c1829193b069ae6939125f28005ede"
+    },
+    {
+      "path": "ultralytics/engine/validator.py",
+      "upstream_sha256_text": "0e22acca06cd25d45dc17a0aa1838903a6cffd3eef316dd2ca3fd073f97bc533",
+      "local_sha256_text": "eb4e55d60f2cfe354f48fffebade81cafdb79611385297e9a85d65015f61f42b"
+    },
+    {
+      "path": "ultralytics/engine/exporter.py",
+      "upstream_sha256_text": "9ff0ed4610f48d3f6c4c56fca10fd361d4184d025bb10cf0a9d212c11fa6418e",
+      "local_sha256_text": "d032f578d371f95656dcee08f8d09396e652398dfcbe7ec80f914411226438ae"
+    },
+    {
+      "path": "ultralytics/engine/trainer.py",
+      "upstream_sha256_text": "fe977596f0f64d6704defecfe0e5aaabe7cf2b91cbcde927c614b296946eb8dc",
+      "local_sha256_text": "1d3e10db0f58747e7593ff4b8c3985c0315fcc9484a018f8d275acde4e471430"
+    },
+    {
+      "path": "ultralytics/engine/predictor.py",
+      "upstream_sha256_text": "b57ac74931c9fab0d0de5acf5bd3f9fde8bf7b04f06d8dac8e2e8c131c9b276f",
+      "local_sha256_text": "251c210d43db4a933c56a0cc8ea2c69fb6f7ce513271144fe6c16f358537fe92"
+    },
+    {
+      "path": "ultralytics/nn/modules/block.py",
+      "upstream_sha256_text": "f5dd5e7a58f7b919dff875931d84e3b01a8b4a9302af0050b97e7632379aa4de",
+      "local_sha256_text": "c3bba87a9c053dd4dbecead4cc686fed3ba02571c8d3a2f148bbcf89c12b5779"
+    },
+    {
+      "path": "ultralytics/nn/modules/head.py",
+      "upstream_sha256_text": "789bd7b6bfce346a9055db6c52926db25a658156e5b62e6c3313fd9e4a126b46",
+      "local_sha256_text": "f53abc46a270431ef4106f0bf372b58a1cbe5265ba5e97ee97191516f4eadb9d"
+    },
+    {
+      "path": "ultralytics/cfg/models/v8/yolov8s_fap2.yaml",
+      "upstream_sha256_text": null,
+      "local_sha256_text": "dc017d60a0007ca63b7a1c7c315178aa9daa0aa273cab0c4793124e0a0963bb9"
+    }
+  ]
+}
